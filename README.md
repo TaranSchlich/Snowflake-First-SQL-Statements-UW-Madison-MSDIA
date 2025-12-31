@@ -1,5 +1,6 @@
 # Snowflake-First-SQL-Statements-UW-Madison-MSDIA
 **By: Taran Schlichtmann**
+
 **Date: 10/07/2025**
 
 ---
